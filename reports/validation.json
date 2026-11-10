@@ -1,0 +1,23 @@
+{
+  "validated_on": "2026-10-27",
+  "python": "3.12.14",
+  "environment": "isolated local Python environment",
+  "versions": {
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "pydantic": "2.14.1",
+    "fastapi": "0.162.0",
+    "httpx": "0.28.1",
+    "pytest": "9.1.1"
+  },
+  "docker_build_executed": false,
+  "live_local_llm_executed": false,
+  "remote_ci_status": "not observed at local validation time",
+  "pytest_passed": 10,
+  "additional_checks": [
+    "official BANKING77 train/evaluation",
+    "real-artifact API prediction",
+    "wheel build"
+  ],
+  "ruff": "passed"
+}

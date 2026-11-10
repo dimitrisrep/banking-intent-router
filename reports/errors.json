@@ -1,0 +1,2000 @@
+[
+  {
+    "test_row": 0,
+    "true_label": "card_arrival",
+    "predicted_label": "card_not_working",
+    "score": 0.1464950944016087
+  },
+  {
+    "test_row": 5,
+    "true_label": "card_arrival",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.6604214199934161
+  },
+  {
+    "test_row": 11,
+    "true_label": "card_arrival",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.6472158741670956
+  },
+  {
+    "test_row": 15,
+    "true_label": "card_arrival",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.217695049865148
+  },
+  {
+    "test_row": 16,
+    "true_label": "card_arrival",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.40301962287061294
+  },
+  {
+    "test_row": 20,
+    "true_label": "card_arrival",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.22135163542902317
+  },
+  {
+    "test_row": 32,
+    "true_label": "card_arrival",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.44741075072747066
+  },
+  {
+    "test_row": 36,
+    "true_label": "card_arrival",
+    "predicted_label": "lost_or_stolen_card",
+    "score": 0.6218395961741682
+  },
+  {
+    "test_row": 79,
+    "true_label": "card_linking",
+    "predicted_label": "getting_spare_card",
+    "score": 0.4978845235082728
+  },
+  {
+    "test_row": 93,
+    "true_label": "exchange_rate",
+    "predicted_label": "exchange_via_app",
+    "score": 0.3367277935384508
+  },
+  {
+    "test_row": 106,
+    "true_label": "exchange_rate",
+    "predicted_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "score": 0.41257390521798737
+  },
+  {
+    "test_row": 138,
+    "true_label": "card_payment_wrong_exchange_rate",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.44277589808315715
+  },
+  {
+    "test_row": 143,
+    "true_label": "card_payment_wrong_exchange_rate",
+    "predicted_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "score": 0.40284484076819455
+  },
+  {
+    "test_row": 145,
+    "true_label": "card_payment_wrong_exchange_rate",
+    "predicted_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "score": 0.5148873151446808
+  },
+  {
+    "test_row": 150,
+    "true_label": "card_payment_wrong_exchange_rate",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.39960132793937786
+  },
+  {
+    "test_row": 156,
+    "true_label": "card_payment_wrong_exchange_rate",
+    "predicted_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "score": 0.6866416360203959
+  },
+  {
+    "test_row": 164,
+    "true_label": "extra_charge_on_statement",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.6148113767300791
+  },
+  {
+    "test_row": 172,
+    "true_label": "extra_charge_on_statement",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.6248176831747622
+  },
+  {
+    "test_row": 173,
+    "true_label": "extra_charge_on_statement",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.36836628073689254
+  },
+  {
+    "test_row": 180,
+    "true_label": "extra_charge_on_statement",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.4136744045262795
+  },
+  {
+    "test_row": 196,
+    "true_label": "extra_charge_on_statement",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.6568198602282823
+  },
+  {
+    "test_row": 197,
+    "true_label": "extra_charge_on_statement",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.35211345156136453
+  },
+  {
+    "test_row": 222,
+    "true_label": "pending_cash_withdrawal",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.7629260499386263
+  },
+  {
+    "test_row": 236,
+    "true_label": "pending_cash_withdrawal",
+    "predicted_label": "declined_card_payment",
+    "score": 0.20827087651231155
+  },
+  {
+    "test_row": 240,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "supported_cards_and_currencies",
+    "score": 0.361407900411888
+  },
+  {
+    "test_row": 246,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "pending_card_payment",
+    "score": 0.3344780854570622
+  },
+  {
+    "test_row": 254,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "supported_cards_and_currencies",
+    "score": 0.5755668522298154
+  },
+  {
+    "test_row": 264,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "exchange_via_app",
+    "score": 0.5859514940777615
+  },
+  {
+    "test_row": 267,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "country_support",
+    "score": 0.402878901331182
+  },
+  {
+    "test_row": 268,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "exchange_via_app",
+    "score": 0.6143921567402834
+  },
+  {
+    "test_row": 271,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "exchange_via_app",
+    "score": 0.5299280999677479
+  },
+  {
+    "test_row": 276,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "exchange_charge",
+    "score": 0.41412183111705736
+  },
+  {
+    "test_row": 279,
+    "true_label": "fiat_currency_support",
+    "predicted_label": "country_support",
+    "score": 0.7050262197238963
+  },
+  {
+    "test_row": 281,
+    "true_label": "card_delivery_estimate",
+    "predicted_label": "card_arrival",
+    "score": 0.2747503189284304
+  },
+  {
+    "test_row": 301,
+    "true_label": "card_delivery_estimate",
+    "predicted_label": "country_support",
+    "score": 0.34396398338890727
+  },
+  {
+    "test_row": 306,
+    "true_label": "card_delivery_estimate",
+    "predicted_label": "order_physical_card",
+    "score": 0.5448272951106279
+  },
+  {
+    "test_row": 308,
+    "true_label": "card_delivery_estimate",
+    "predicted_label": "card_arrival",
+    "score": 0.5258824732350812
+  },
+  {
+    "test_row": 333,
+    "true_label": "automatic_top_up",
+    "predicted_label": "verify_source_of_funds",
+    "score": 0.18411467059872755
+  },
+  {
+    "test_row": 339,
+    "true_label": "automatic_top_up",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.26911884511131523
+  },
+  {
+    "test_row": 345,
+    "true_label": "automatic_top_up",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.24447778072492413
+  },
+  {
+    "test_row": 360,
+    "true_label": "card_not_working",
+    "predicted_label": "declined_card_payment",
+    "score": 0.4807642529599423
+  },
+  {
+    "test_row": 367,
+    "true_label": "card_not_working",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.36959232001940917
+  },
+  {
+    "test_row": 368,
+    "true_label": "card_not_working",
+    "predicted_label": "pin_blocked",
+    "score": 0.7597390404076048
+  },
+  {
+    "test_row": 393,
+    "true_label": "card_not_working",
+    "predicted_label": "declined_card_payment",
+    "score": 0.4664831173808323
+  },
+  {
+    "test_row": 399,
+    "true_label": "card_not_working",
+    "predicted_label": "activate_my_card",
+    "score": 0.4988065959468826
+  },
+  {
+    "test_row": 416,
+    "true_label": "exchange_via_app",
+    "predicted_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "score": 0.2751638071749757
+  },
+  {
+    "test_row": 417,
+    "true_label": "exchange_via_app",
+    "predicted_label": "exchange_charge",
+    "score": 0.4551559429271638
+  },
+  {
+    "test_row": 434,
+    "true_label": "exchange_via_app",
+    "predicted_label": "fiat_currency_support",
+    "score": 0.4813027143303306
+  },
+  {
+    "test_row": 453,
+    "true_label": "lost_or_stolen_card",
+    "predicted_label": "transaction_charged_twice",
+    "score": 0.0676921606745295
+  },
+  {
+    "test_row": 467,
+    "true_label": "lost_or_stolen_card",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.2912577875474879
+  },
+  {
+    "test_row": 471,
+    "true_label": "lost_or_stolen_card",
+    "predicted_label": "card_not_working",
+    "score": 0.4521070295600923
+  },
+  {
+    "test_row": 475,
+    "true_label": "lost_or_stolen_card",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.43164580631142724
+  },
+  {
+    "test_row": 476,
+    "true_label": "lost_or_stolen_card",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.45062321164095714
+  },
+  {
+    "test_row": 521,
+    "true_label": "pin_blocked",
+    "predicted_label": "change_pin",
+    "score": 0.4829631439791442
+  },
+  {
+    "test_row": 522,
+    "true_label": "pin_blocked",
+    "predicted_label": "get_physical_card",
+    "score": 0.5140212996544684
+  },
+  {
+    "test_row": 527,
+    "true_label": "pin_blocked",
+    "predicted_label": "card_not_working",
+    "score": 0.7793234991083144
+  },
+  {
+    "test_row": 534,
+    "true_label": "pin_blocked",
+    "predicted_label": "card_not_working",
+    "score": 0.4162285746883735
+  },
+  {
+    "test_row": 537,
+    "true_label": "pin_blocked",
+    "predicted_label": "declined_card_payment",
+    "score": 0.30073914452269807
+  },
+  {
+    "test_row": 551,
+    "true_label": "pin_blocked",
+    "predicted_label": "card_linking",
+    "score": 0.49127978188623056
+  },
+  {
+    "test_row": 552,
+    "true_label": "pin_blocked",
+    "predicted_label": "change_pin",
+    "score": 0.474499282187594
+  },
+  {
+    "test_row": 555,
+    "true_label": "pin_blocked",
+    "predicted_label": "declined_card_payment",
+    "score": 0.1960655761253626
+  },
+  {
+    "test_row": 562,
+    "true_label": "contactless_not_working",
+    "predicted_label": "verify_my_identity",
+    "score": 0.4841291739373033
+  },
+  {
+    "test_row": 583,
+    "true_label": "contactless_not_working",
+    "predicted_label": "card_not_working",
+    "score": 0.3867772316371537
+  },
+  {
+    "test_row": 586,
+    "true_label": "contactless_not_working",
+    "predicted_label": "top_up_by_card_charge",
+    "score": 0.39169158191329206
+  },
+  {
+    "test_row": 599,
+    "true_label": "contactless_not_working",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.3764213934510221
+  },
+  {
+    "test_row": 614,
+    "true_label": "top_up_by_bank_transfer_charge",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.6214254701603642
+  },
+  {
+    "test_row": 618,
+    "true_label": "top_up_by_bank_transfer_charge",
+    "predicted_label": "top_up_by_card_charge",
+    "score": 0.7064967410361473
+  },
+  {
+    "test_row": 632,
+    "true_label": "top_up_by_bank_transfer_charge",
+    "predicted_label": "pending_transfer",
+    "score": 0.3684133162110746
+  },
+  {
+    "test_row": 636,
+    "true_label": "top_up_by_bank_transfer_charge",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.421309538184419
+  },
+  {
+    "test_row": 643,
+    "true_label": "pending_top_up",
+    "predicted_label": "top_up_failed",
+    "score": 0.33073888664579615
+  },
+  {
+    "test_row": 647,
+    "true_label": "pending_top_up",
+    "predicted_label": "top_up_failed",
+    "score": 0.6088882746426358
+  },
+  {
+    "test_row": 649,
+    "true_label": "pending_top_up",
+    "predicted_label": "top_up_failed",
+    "score": 0.519006381151817
+  },
+  {
+    "test_row": 666,
+    "true_label": "pending_top_up",
+    "predicted_label": "top_up_failed",
+    "score": 0.538508301826706
+  },
+  {
+    "test_row": 670,
+    "true_label": "pending_top_up",
+    "predicted_label": "top_up_failed",
+    "score": 0.40817414436220245
+  },
+  {
+    "test_row": 673,
+    "true_label": "pending_top_up",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.2618492688005141
+  },
+  {
+    "test_row": 676,
+    "true_label": "pending_top_up",
+    "predicted_label": "top_up_failed",
+    "score": 0.5000666837447252
+  },
+  {
+    "test_row": 717,
+    "true_label": "cancel_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.5602539699376903
+  },
+  {
+    "test_row": 718,
+    "true_label": "cancel_transfer",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.4111127461510848
+  },
+  {
+    "test_row": 721,
+    "true_label": "top_up_limits",
+    "predicted_label": "top_up_by_card_charge",
+    "score": 0.26921007178529605
+  },
+  {
+    "test_row": 725,
+    "true_label": "top_up_limits",
+    "predicted_label": "disposable_card_limits",
+    "score": 0.38937550033837715
+  },
+  {
+    "test_row": 757,
+    "true_label": "top_up_limits",
+    "predicted_label": "top_up_failed",
+    "score": 0.306328847905051
+  },
+  {
+    "test_row": 773,
+    "true_label": "wrong_amount_of_cash_received",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.27199729282768936
+  },
+  {
+    "test_row": 775,
+    "true_label": "wrong_amount_of_cash_received",
+    "predicted_label": "declined_cash_withdrawal",
+    "score": 0.6484455283864403
+  },
+  {
+    "test_row": 798,
+    "true_label": "wrong_amount_of_cash_received",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.30582839141709156
+  },
+  {
+    "test_row": 799,
+    "true_label": "wrong_amount_of_cash_received",
+    "predicted_label": "declined_cash_withdrawal",
+    "score": 0.6736167471246015
+  },
+  {
+    "test_row": 807,
+    "true_label": "card_payment_fee_charged",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.32293857815325094
+  },
+  {
+    "test_row": 812,
+    "true_label": "card_payment_fee_charged",
+    "predicted_label": "direct_debit_payment_not_recognised",
+    "score": 0.6677436081890622
+  },
+  {
+    "test_row": 849,
+    "true_label": "transfer_not_received_by_recipient",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.4122260481763813
+  },
+  {
+    "test_row": 851,
+    "true_label": "transfer_not_received_by_recipient",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.554718568859216
+  },
+  {
+    "test_row": 852,
+    "true_label": "transfer_not_received_by_recipient",
+    "predicted_label": "failed_transfer",
+    "score": 0.39653482616677876
+  },
+  {
+    "test_row": 857,
+    "true_label": "transfer_not_received_by_recipient",
+    "predicted_label": "failed_transfer",
+    "score": 0.677119959998864
+  },
+  {
+    "test_row": 863,
+    "true_label": "transfer_not_received_by_recipient",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.3696022941216879
+  },
+  {
+    "test_row": 873,
+    "true_label": "transfer_not_received_by_recipient",
+    "predicted_label": "verify_source_of_funds",
+    "score": 0.3215722813401297
+  },
+  {
+    "test_row": 900,
+    "true_label": "supported_cards_and_currencies",
+    "predicted_label": "fiat_currency_support",
+    "score": 0.577181076817529
+  },
+  {
+    "test_row": 908,
+    "true_label": "supported_cards_and_currencies",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.18807334619608834
+  },
+  {
+    "test_row": 924,
+    "true_label": "getting_virtual_card",
+    "predicted_label": "get_disposable_virtual_card",
+    "score": 0.28659173042724884
+  },
+  {
+    "test_row": 945,
+    "true_label": "getting_virtual_card",
+    "predicted_label": "card_arrival",
+    "score": 0.08489032221366256
+  },
+  {
+    "test_row": 979,
+    "true_label": "card_acceptance",
+    "predicted_label": "card_not_working",
+    "score": 0.5306085347468114
+  },
+  {
+    "test_row": 980,
+    "true_label": "card_acceptance",
+    "predicted_label": "pending_card_payment",
+    "score": 0.3253551221580448
+  },
+  {
+    "test_row": 987,
+    "true_label": "card_acceptance",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.2535961920675723
+  },
+  {
+    "test_row": 988,
+    "true_label": "card_acceptance",
+    "predicted_label": "card_not_working",
+    "score": 0.5713850292448226
+  },
+  {
+    "test_row": 989,
+    "true_label": "card_acceptance",
+    "predicted_label": "card_not_working",
+    "score": 0.31291525282823984
+  },
+  {
+    "test_row": 991,
+    "true_label": "card_acceptance",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.37774127507391575
+  },
+  {
+    "test_row": 997,
+    "true_label": "card_acceptance",
+    "predicted_label": "card_not_working",
+    "score": 0.46584544455936533
+  },
+  {
+    "test_row": 1003,
+    "true_label": "top_up_reverted",
+    "predicted_label": "pending_top_up",
+    "score": 0.5417221157447318
+  },
+  {
+    "test_row": 1004,
+    "true_label": "top_up_reverted",
+    "predicted_label": "top_up_failed",
+    "score": 0.3821157427529801
+  },
+  {
+    "test_row": 1006,
+    "true_label": "top_up_reverted",
+    "predicted_label": "top_up_failed",
+    "score": 0.6170050889190184
+  },
+  {
+    "test_row": 1008,
+    "true_label": "top_up_reverted",
+    "predicted_label": "top_up_failed",
+    "score": 0.4761462628274541
+  },
+  {
+    "test_row": 1010,
+    "true_label": "top_up_reverted",
+    "predicted_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "score": 0.7729672067906219
+  },
+  {
+    "test_row": 1025,
+    "true_label": "top_up_reverted",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.4633925136345685
+  },
+  {
+    "test_row": 1056,
+    "true_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "predicted_label": "top_up_by_cash_or_cheque",
+    "score": 0.33780419506909415
+  },
+  {
+    "test_row": 1068,
+    "true_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "predicted_label": "top_up_reverted",
+    "score": 0.29756438919121886
+  },
+  {
+    "test_row": 1087,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "direct_debit_payment_not_recognised",
+    "score": 0.29108818890828814
+  },
+  {
+    "test_row": 1088,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "direct_debit_payment_not_recognised",
+    "score": 0.44198561748849535
+  },
+  {
+    "test_row": 1101,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "extra_charge_on_statement",
+    "score": 0.5249970473397431
+  },
+  {
+    "test_row": 1103,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "compromised_card",
+    "score": 0.7089642457828494
+  },
+  {
+    "test_row": 1106,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.30014043118727873
+  },
+  {
+    "test_row": 1107,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "direct_debit_payment_not_recognised",
+    "score": 0.5573766724840072
+  },
+  {
+    "test_row": 1109,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "verify_source_of_funds",
+    "score": 0.5836365202729096
+  },
+  {
+    "test_row": 1111,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "direct_debit_payment_not_recognised",
+    "score": 0.4919923722224678
+  },
+  {
+    "test_row": 1112,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "compromised_card",
+    "score": 0.6434573744561088
+  },
+  {
+    "test_row": 1116,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.28669767225912823
+  },
+  {
+    "test_row": 1117,
+    "true_label": "card_payment_not_recognised",
+    "predicted_label": "extra_charge_on_statement",
+    "score": 0.4950742871825176
+  },
+  {
+    "test_row": 1161,
+    "true_label": "why_verify_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.5440239315165922
+  },
+  {
+    "test_row": 1170,
+    "true_label": "why_verify_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.5474899003429177
+  },
+  {
+    "test_row": 1186,
+    "true_label": "why_verify_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.791259481483499
+  },
+  {
+    "test_row": 1187,
+    "true_label": "why_verify_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.6215755449645997
+  },
+  {
+    "test_row": 1189,
+    "true_label": "why_verify_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.6900313947674119
+  },
+  {
+    "test_row": 1192,
+    "true_label": "why_verify_identity",
+    "predicted_label": "verify_my_identity",
+    "score": 0.5721689868797853
+  },
+  {
+    "test_row": 1197,
+    "true_label": "why_verify_identity",
+    "predicted_label": "verify_my_identity",
+    "score": 0.406249786017268
+  },
+  {
+    "test_row": 1200,
+    "true_label": "unable_to_verify_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.49822898417940464
+  },
+  {
+    "test_row": 1201,
+    "true_label": "unable_to_verify_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.547087212511374
+  },
+  {
+    "test_row": 1204,
+    "true_label": "unable_to_verify_identity",
+    "predicted_label": "verify_top_up",
+    "score": 0.4461080206461632
+  },
+  {
+    "test_row": 1205,
+    "true_label": "unable_to_verify_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.796296135140222
+  },
+  {
+    "test_row": 1227,
+    "true_label": "unable_to_verify_identity",
+    "predicted_label": "verify_my_identity",
+    "score": 0.6324927739268023
+  },
+  {
+    "test_row": 1237,
+    "true_label": "unable_to_verify_identity",
+    "predicted_label": "verify_my_identity",
+    "score": 0.6768110642894251
+  },
+  {
+    "test_row": 1251,
+    "true_label": "get_physical_card",
+    "predicted_label": "card_arrival",
+    "score": 0.36587918505139433
+  },
+  {
+    "test_row": 1296,
+    "true_label": "visa_or_mastercard",
+    "predicted_label": "getting_spare_card",
+    "score": 0.2051447237971629
+  },
+  {
+    "test_row": 1297,
+    "true_label": "visa_or_mastercard",
+    "predicted_label": "country_support",
+    "score": 0.2845135609981008
+  },
+  {
+    "test_row": 1315,
+    "true_label": "visa_or_mastercard",
+    "predicted_label": "supported_cards_and_currencies",
+    "score": 0.39126569264361793
+  },
+  {
+    "test_row": 1324,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "transfer_into_account",
+    "score": 0.6582293521769401
+  },
+  {
+    "test_row": 1326,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "top_up_by_cash_or_cheque",
+    "score": 0.5216543096041089
+  },
+  {
+    "test_row": 1331,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.6445305148287097
+  },
+  {
+    "test_row": 1332,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "top_up_by_cash_or_cheque",
+    "score": 0.36013774030658974
+  },
+  {
+    "test_row": 1346,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "top_up_by_cash_or_cheque",
+    "score": 0.4116046291685171
+  },
+  {
+    "test_row": 1347,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "top_up_reverted",
+    "score": 0.2038075858702346
+  },
+  {
+    "test_row": 1354,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "transfer_into_account",
+    "score": 0.4182036822858928
+  },
+  {
+    "test_row": 1358,
+    "true_label": "topping_up_by_card",
+    "predicted_label": "pending_top_up",
+    "score": 0.6423347266666019
+  },
+  {
+    "test_row": 1360,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "get_disposable_virtual_card",
+    "score": 0.4412769464155959
+  },
+  {
+    "test_row": 1367,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.6121654790269869
+  },
+  {
+    "test_row": 1381,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "getting_spare_card",
+    "score": 0.539118037216479
+  },
+  {
+    "test_row": 1386,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.5096580487335796
+  },
+  {
+    "test_row": 1389,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "get_disposable_virtual_card",
+    "score": 0.5039775226068023
+  },
+  {
+    "test_row": 1391,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.8054849823523986
+  },
+  {
+    "test_row": 1394,
+    "true_label": "disposable_card_limits",
+    "predicted_label": "get_disposable_virtual_card",
+    "score": 0.7260004078238012
+  },
+  {
+    "test_row": 1404,
+    "true_label": "compromised_card",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.2746330272444132
+  },
+  {
+    "test_row": 1413,
+    "true_label": "compromised_card",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.3841267544092168
+  },
+  {
+    "test_row": 1421,
+    "true_label": "compromised_card",
+    "predicted_label": "card_linking",
+    "score": 0.3568260773076337
+  },
+  {
+    "test_row": 1425,
+    "true_label": "compromised_card",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.2919349353791144
+  },
+  {
+    "test_row": 1450,
+    "true_label": "atm_support",
+    "predicted_label": "wrong_amount_of_cash_received",
+    "score": 0.18341822738031882
+  },
+  {
+    "test_row": 1455,
+    "true_label": "atm_support",
+    "predicted_label": "card_swallowed",
+    "score": 0.2758316377269027
+  },
+  {
+    "test_row": 1460,
+    "true_label": "atm_support",
+    "predicted_label": "card_acceptance",
+    "score": 0.8146323841904304
+  },
+  {
+    "test_row": 1470,
+    "true_label": "atm_support",
+    "predicted_label": "cash_withdrawal_not_recognised",
+    "score": 0.41683786062559924
+  },
+  {
+    "test_row": 1484,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "extra_charge_on_statement",
+    "score": 0.4694131718811768
+  },
+  {
+    "test_row": 1485,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.12272930517892466
+  },
+  {
+    "test_row": 1486,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "lost_or_stolen_card",
+    "score": 0.3902156579390015
+  },
+  {
+    "test_row": 1504,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.5264676816164156
+  },
+  {
+    "test_row": 1516,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.24129098666709284
+  },
+  {
+    "test_row": 1517,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "cash_withdrawal_charge",
+    "score": 0.35648389895881893
+  },
+  {
+    "test_row": 1519,
+    "true_label": "direct_debit_payment_not_recognised",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.7123322146360515
+  },
+  {
+    "test_row": 1562,
+    "true_label": "declined_cash_withdrawal",
+    "predicted_label": "top_up_failed",
+    "score": 0.4516630572651009
+  },
+  {
+    "test_row": 1568,
+    "true_label": "declined_cash_withdrawal",
+    "predicted_label": "beneficiary_not_allowed",
+    "score": 0.25983151163249757
+  },
+  {
+    "test_row": 1580,
+    "true_label": "declined_cash_withdrawal",
+    "predicted_label": "wrong_amount_of_cash_received",
+    "score": 0.32031505870247007
+  },
+  {
+    "test_row": 1589,
+    "true_label": "declined_cash_withdrawal",
+    "predicted_label": "wrong_amount_of_cash_received",
+    "score": 0.4448187073998376
+  },
+  {
+    "test_row": 1603,
+    "true_label": "pending_card_payment",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.5691963495210166
+  },
+  {
+    "test_row": 1605,
+    "true_label": "pending_card_payment",
+    "predicted_label": "failed_transfer",
+    "score": 0.3450264131470256
+  },
+  {
+    "test_row": 1622,
+    "true_label": "pending_card_payment",
+    "predicted_label": "pending_top_up",
+    "score": 0.4189305158012188
+  },
+  {
+    "test_row": 1626,
+    "true_label": "pending_card_payment",
+    "predicted_label": "transaction_charged_twice",
+    "score": 0.9542286887094116
+  },
+  {
+    "test_row": 1634,
+    "true_label": "pending_card_payment",
+    "predicted_label": "transfer_timing",
+    "score": 0.2608513758718396
+  },
+  {
+    "test_row": 1672,
+    "true_label": "lost_or_stolen_phone",
+    "predicted_label": "lost_or_stolen_card",
+    "score": 0.5933516184576344
+  },
+  {
+    "test_row": 1676,
+    "true_label": "lost_or_stolen_phone",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.5945951055433376
+  },
+  {
+    "test_row": 1684,
+    "true_label": "request_refund",
+    "predicted_label": "Refund_not_showing_up",
+    "score": 0.5470893513226326
+  },
+  {
+    "test_row": 1689,
+    "true_label": "request_refund",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.842565398358633
+  },
+  {
+    "test_row": 1715,
+    "true_label": "request_refund",
+    "predicted_label": "Refund_not_showing_up",
+    "score": 0.5070252955454486
+  },
+  {
+    "test_row": 1721,
+    "true_label": "declined_transfer",
+    "predicted_label": "declined_card_payment",
+    "score": 0.13048730789342147
+  },
+  {
+    "test_row": 1726,
+    "true_label": "declined_transfer",
+    "predicted_label": "transaction_charged_twice",
+    "score": 0.6251448770915231
+  },
+  {
+    "test_row": 1734,
+    "true_label": "declined_transfer",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.5625218380995094
+  },
+  {
+    "test_row": 1736,
+    "true_label": "declined_transfer",
+    "predicted_label": "failed_transfer",
+    "score": 0.7056152361287807
+  },
+  {
+    "test_row": 1737,
+    "true_label": "declined_transfer",
+    "predicted_label": "cancel_transfer",
+    "score": 0.35248825617339147
+  },
+  {
+    "test_row": 1751,
+    "true_label": "declined_transfer",
+    "predicted_label": "declined_cash_withdrawal",
+    "score": 0.4599793437847792
+  },
+  {
+    "test_row": 1752,
+    "true_label": "declined_transfer",
+    "predicted_label": "failed_transfer",
+    "score": 0.5103461936223905
+  },
+  {
+    "test_row": 1758,
+    "true_label": "declined_transfer",
+    "predicted_label": "declined_card_payment",
+    "score": 0.24808162778149104
+  },
+  {
+    "test_row": 1762,
+    "true_label": "Refund_not_showing_up",
+    "predicted_label": "request_refund",
+    "score": 0.5560790683016358
+  },
+  {
+    "test_row": 1767,
+    "true_label": "Refund_not_showing_up",
+    "predicted_label": "request_refund",
+    "score": 0.5689777649752633
+  },
+  {
+    "test_row": 1775,
+    "true_label": "Refund_not_showing_up",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.4478463017742805
+  },
+  {
+    "test_row": 1792,
+    "true_label": "Refund_not_showing_up",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.3300587105578729
+  },
+  {
+    "test_row": 1794,
+    "true_label": "Refund_not_showing_up",
+    "predicted_label": "request_refund",
+    "score": 0.5066300767977403
+  },
+  {
+    "test_row": 1796,
+    "true_label": "Refund_not_showing_up",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.26336215238525035
+  },
+  {
+    "test_row": 1822,
+    "true_label": "declined_card_payment",
+    "predicted_label": "declined_cash_withdrawal",
+    "score": 0.369559689407339
+  },
+  {
+    "test_row": 1834,
+    "true_label": "declined_card_payment",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.28675250106625383
+  },
+  {
+    "test_row": 1838,
+    "true_label": "declined_card_payment",
+    "predicted_label": "reverted_card_payment?",
+    "score": 0.660318582850659
+  },
+  {
+    "test_row": 1842,
+    "true_label": "pending_transfer",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.40129461949275036
+  },
+  {
+    "test_row": 1855,
+    "true_label": "pending_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.5588700489038151
+  },
+  {
+    "test_row": 1858,
+    "true_label": "pending_transfer",
+    "predicted_label": "failed_transfer",
+    "score": 0.6248411092998962
+  },
+  {
+    "test_row": 1859,
+    "true_label": "pending_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.4031533292215694
+  },
+  {
+    "test_row": 1862,
+    "true_label": "pending_transfer",
+    "predicted_label": "failed_transfer",
+    "score": 0.4305890793204348
+  },
+  {
+    "test_row": 1864,
+    "true_label": "pending_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.42516773744992736
+  },
+  {
+    "test_row": 1866,
+    "true_label": "pending_transfer",
+    "predicted_label": "pending_card_payment",
+    "score": 0.9184623854428693
+  },
+  {
+    "test_row": 1867,
+    "true_label": "pending_transfer",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.45469135703581426
+  },
+  {
+    "test_row": 1869,
+    "true_label": "pending_transfer",
+    "predicted_label": "pending_card_payment",
+    "score": 0.43247513780952174
+  },
+  {
+    "test_row": 1875,
+    "true_label": "pending_transfer",
+    "predicted_label": "pending_card_payment",
+    "score": 0.5008103261546464
+  },
+  {
+    "test_row": 1921,
+    "true_label": "card_swallowed",
+    "predicted_label": "card_not_working",
+    "score": 0.4230871163691982
+  },
+  {
+    "test_row": 1922,
+    "true_label": "card_swallowed",
+    "predicted_label": "card_not_working",
+    "score": 0.38018250540373116
+  },
+  {
+    "test_row": 1953,
+    "true_label": "card_swallowed",
+    "predicted_label": "card_not_working",
+    "score": 0.389789484405001
+  },
+  {
+    "test_row": 1958,
+    "true_label": "card_swallowed",
+    "predicted_label": "pending_cash_withdrawal",
+    "score": 0.31067265175321196
+  },
+  {
+    "test_row": 2045,
+    "true_label": "transfer_timing",
+    "predicted_label": "pending_transfer",
+    "score": 0.6259033000077159
+  },
+  {
+    "test_row": 2047,
+    "true_label": "transfer_timing",
+    "predicted_label": "failed_transfer",
+    "score": 0.5566866391496788
+  },
+  {
+    "test_row": 2048,
+    "true_label": "transfer_timing",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.8996901849179901
+  },
+  {
+    "test_row": 2052,
+    "true_label": "transfer_timing",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.3311411588639213
+  },
+  {
+    "test_row": 2055,
+    "true_label": "transfer_timing",
+    "predicted_label": "balance_not_updated_after_bank_transfer",
+    "score": 0.6912318196990856
+  },
+  {
+    "test_row": 2057,
+    "true_label": "transfer_timing",
+    "predicted_label": "pending_top_up",
+    "score": 0.27756606763668124
+  },
+  {
+    "test_row": 2063,
+    "true_label": "transfer_timing",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.4023841839682871
+  },
+  {
+    "test_row": 2069,
+    "true_label": "transfer_timing",
+    "predicted_label": "pending_transfer",
+    "score": 0.2636900045180473
+  },
+  {
+    "test_row": 2070,
+    "true_label": "transfer_timing",
+    "predicted_label": "card_about_to_expire",
+    "score": 0.31177295621205575
+  },
+  {
+    "test_row": 2073,
+    "true_label": "transfer_timing",
+    "predicted_label": "pending_cash_withdrawal",
+    "score": 0.30637793889635956
+  },
+  {
+    "test_row": 2092,
+    "true_label": "reverted_card_payment?",
+    "predicted_label": "card_not_working",
+    "score": 0.35247583664317816
+  },
+  {
+    "test_row": 2094,
+    "true_label": "reverted_card_payment?",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.4900123806847735
+  },
+  {
+    "test_row": 2102,
+    "true_label": "reverted_card_payment?",
+    "predicted_label": "card_not_working",
+    "score": 0.15064667290264608
+  },
+  {
+    "test_row": 2138,
+    "true_label": "change_pin",
+    "predicted_label": "visa_or_mastercard",
+    "score": 0.5235221779085512
+  },
+  {
+    "test_row": 2146,
+    "true_label": "change_pin",
+    "predicted_label": "get_physical_card",
+    "score": 0.7503456601477517
+  },
+  {
+    "test_row": 2153,
+    "true_label": "change_pin",
+    "predicted_label": "get_physical_card",
+    "score": 0.6534510581378253
+  },
+  {
+    "test_row": 2164,
+    "true_label": "beneficiary_not_allowed",
+    "predicted_label": "pin_blocked",
+    "score": 0.3675187116554605
+  },
+  {
+    "test_row": 2172,
+    "true_label": "beneficiary_not_allowed",
+    "predicted_label": "exchange_via_app",
+    "score": 0.5328141498242731
+  },
+  {
+    "test_row": 2190,
+    "true_label": "beneficiary_not_allowed",
+    "predicted_label": "failed_transfer",
+    "score": 0.5278278287841357
+  },
+  {
+    "test_row": 2209,
+    "true_label": "transfer_fee_charged",
+    "predicted_label": "top_up_limits",
+    "score": 0.36904269465868994
+  },
+  {
+    "test_row": 2215,
+    "true_label": "transfer_fee_charged",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.3672930890755316
+  },
+  {
+    "test_row": 2233,
+    "true_label": "transfer_fee_charged",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.26793119853191727
+  },
+  {
+    "test_row": 2236,
+    "true_label": "transfer_fee_charged",
+    "predicted_label": "direct_debit_payment_not_recognised",
+    "score": 0.3287146857760229
+  },
+  {
+    "test_row": 2252,
+    "true_label": "receiving_money",
+    "predicted_label": "exchange_via_app",
+    "score": 0.3990942880851207
+  },
+  {
+    "test_row": 2256,
+    "true_label": "receiving_money",
+    "predicted_label": "top_up_by_bank_transfer_charge",
+    "score": 0.2790037591976396
+  },
+  {
+    "test_row": 2266,
+    "true_label": "receiving_money",
+    "predicted_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "score": 0.5195250792750647
+  },
+  {
+    "test_row": 2290,
+    "true_label": "failed_transfer",
+    "predicted_label": "pending_transfer",
+    "score": 0.2826409174396687
+  },
+  {
+    "test_row": 2295,
+    "true_label": "failed_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.41175344267513464
+  },
+  {
+    "test_row": 2300,
+    "true_label": "failed_transfer",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.09885927341777556
+  },
+  {
+    "test_row": 2305,
+    "true_label": "failed_transfer",
+    "predicted_label": "transfer_into_account",
+    "score": 0.549639336093752
+  },
+  {
+    "test_row": 2313,
+    "true_label": "failed_transfer",
+    "predicted_label": "declined_transfer",
+    "score": 0.6214959579035103
+  },
+  {
+    "test_row": 2323,
+    "true_label": "transfer_into_account",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.6726437574473587
+  },
+  {
+    "test_row": 2324,
+    "true_label": "transfer_into_account",
+    "predicted_label": "pending_transfer",
+    "score": 0.4451764261405085
+  },
+  {
+    "test_row": 2328,
+    "true_label": "transfer_into_account",
+    "predicted_label": "receiving_money",
+    "score": 0.33453746728614026
+  },
+  {
+    "test_row": 2338,
+    "true_label": "transfer_into_account",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.8915867583595194
+  },
+  {
+    "test_row": 2341,
+    "true_label": "transfer_into_account",
+    "predicted_label": "supported_cards_and_currencies",
+    "score": 0.3896119976846385
+  },
+  {
+    "test_row": 2342,
+    "true_label": "transfer_into_account",
+    "predicted_label": "declined_transfer",
+    "score": 0.3274143623968443
+  },
+  {
+    "test_row": 2351,
+    "true_label": "transfer_into_account",
+    "predicted_label": "failed_transfer",
+    "score": 0.5752250050106177
+  },
+  {
+    "test_row": 2411,
+    "true_label": "getting_spare_card",
+    "predicted_label": "transaction_charged_twice",
+    "score": 0.6498734955099966
+  },
+  {
+    "test_row": 2426,
+    "true_label": "getting_spare_card",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.4242485236172978
+  },
+  {
+    "test_row": 2438,
+    "true_label": "getting_spare_card",
+    "predicted_label": "age_limit",
+    "score": 0.39058014187642126
+  },
+  {
+    "test_row": 2439,
+    "true_label": "getting_spare_card",
+    "predicted_label": "age_limit",
+    "score": 0.3934480529680509
+  },
+  {
+    "test_row": 2446,
+    "true_label": "top_up_by_cash_or_cheque",
+    "predicted_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "score": 0.4446334777622126
+  },
+  {
+    "test_row": 2447,
+    "true_label": "top_up_by_cash_or_cheque",
+    "predicted_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "score": 0.6867808159927787
+  },
+  {
+    "test_row": 2453,
+    "true_label": "top_up_by_cash_or_cheque",
+    "predicted_label": "balance_not_updated_after_cheque_or_cash_deposit",
+    "score": 0.31445538439758014
+  },
+  {
+    "test_row": 2466,
+    "true_label": "top_up_by_cash_or_cheque",
+    "predicted_label": "transfer_into_account",
+    "score": 0.4032269265080227
+  },
+  {
+    "test_row": 2469,
+    "true_label": "top_up_by_cash_or_cheque",
+    "predicted_label": "card_acceptance",
+    "score": 0.32138249176879513
+  },
+  {
+    "test_row": 2477,
+    "true_label": "top_up_by_cash_or_cheque",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.4538967968615603
+  },
+  {
+    "test_row": 2481,
+    "true_label": "order_physical_card",
+    "predicted_label": "request_refund",
+    "score": 0.3623256449458278
+  },
+  {
+    "test_row": 2499,
+    "true_label": "order_physical_card",
+    "predicted_label": "country_support",
+    "score": 0.26378936977064005
+  },
+  {
+    "test_row": 2500,
+    "true_label": "order_physical_card",
+    "predicted_label": "top_up_by_card_charge",
+    "score": 0.5006039549021082
+  },
+  {
+    "test_row": 2503,
+    "true_label": "order_physical_card",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.9076684909445409
+  },
+  {
+    "test_row": 2506,
+    "true_label": "order_physical_card",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.41318055342293114
+  },
+  {
+    "test_row": 2513,
+    "true_label": "order_physical_card",
+    "predicted_label": "lost_or_stolen_card",
+    "score": 0.24978124508195118
+  },
+  {
+    "test_row": 2523,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "card_not_working",
+    "score": 0.8009055427900784
+  },
+  {
+    "test_row": 2524,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "get_disposable_virtual_card",
+    "score": 0.7026346564331356
+  },
+  {
+    "test_row": 2525,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.5621515170701612
+  },
+  {
+    "test_row": 2528,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "declined_card_payment",
+    "score": 0.3452608518910949
+  },
+  {
+    "test_row": 2531,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.48264081413029
+  },
+  {
+    "test_row": 2532,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "automatic_top_up",
+    "score": 0.6065673077881613
+  },
+  {
+    "test_row": 2544,
+    "true_label": "virtual_card_not_working",
+    "predicted_label": "card_not_working",
+    "score": 0.585459370782624
+  },
+  {
+    "test_row": 2560,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "wrong_amount_of_cash_received",
+    "score": 0.6225380632938724
+  },
+  {
+    "test_row": 2561,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "exchange_via_app",
+    "score": 0.2853156365521364
+  },
+  {
+    "test_row": 2563,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.4920271968546934
+  },
+  {
+    "test_row": 2571,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "exchange_charge",
+    "score": 0.6984642001533541
+  },
+  {
+    "test_row": 2575,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "wrong_amount_of_cash_received",
+    "score": 0.23305145047008122
+  },
+  {
+    "test_row": 2581,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "exchange_charge",
+    "score": 0.32754623395154286
+  },
+  {
+    "test_row": 2584,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.5322420716771277
+  },
+  {
+    "test_row": 2588,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.5066019243211015
+  },
+  {
+    "test_row": 2592,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.3872769654002118
+  },
+  {
+    "test_row": 2595,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "card_payment_wrong_exchange_rate",
+    "score": 0.4776044655804007
+  },
+  {
+    "test_row": 2596,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "exchange_rate",
+    "score": 0.6615482587249153
+  },
+  {
+    "test_row": 2599,
+    "true_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "predicted_label": "pending_cash_withdrawal",
+    "score": 0.25818229269318743
+  },
+  {
+    "test_row": 2604,
+    "true_label": "get_disposable_virtual_card",
+    "predicted_label": "getting_spare_card",
+    "score": 0.2582645316067452
+  },
+  {
+    "test_row": 2606,
+    "true_label": "get_disposable_virtual_card",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.7803687525387705
+  },
+  {
+    "test_row": 2622,
+    "true_label": "get_disposable_virtual_card",
+    "predicted_label": "getting_virtual_card",
+    "score": 0.7120817874968443
+  },
+  {
+    "test_row": 2636,
+    "true_label": "get_disposable_virtual_card",
+    "predicted_label": "card_delivery_estimate",
+    "score": 0.273072423714145
+  },
+  {
+    "test_row": 2637,
+    "true_label": "get_disposable_virtual_card",
+    "predicted_label": "disposable_card_limits",
+    "score": 0.9630316459136548
+  },
+  {
+    "test_row": 2656,
+    "true_label": "top_up_failed",
+    "predicted_label": "top_up_reverted",
+    "score": 0.7196097243960657
+  },
+  {
+    "test_row": 2657,
+    "true_label": "top_up_failed",
+    "predicted_label": "declined_card_payment",
+    "score": 0.6207173515915347
+  },
+  {
+    "test_row": 2659,
+    "true_label": "top_up_failed",
+    "predicted_label": "top_up_reverted",
+    "score": 0.45358205076800806
+  },
+  {
+    "test_row": 2664,
+    "true_label": "top_up_failed",
+    "predicted_label": "top_up_by_cash_or_cheque",
+    "score": 0.6998173203331791
+  },
+  {
+    "test_row": 2672,
+    "true_label": "top_up_failed",
+    "predicted_label": "topping_up_by_card",
+    "score": 0.2866063233724398
+  },
+  {
+    "test_row": 2675,
+    "true_label": "top_up_failed",
+    "predicted_label": "card_not_working",
+    "score": 0.3452914763349786
+  },
+  {
+    "test_row": 2676,
+    "true_label": "top_up_failed",
+    "predicted_label": "top_up_reverted",
+    "score": 0.8231739938398818
+  },
+  {
+    "test_row": 2687,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "transfer_timing",
+    "score": 0.8432549896163386
+  },
+  {
+    "test_row": 2688,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.3167547857271529
+  },
+  {
+    "test_row": 2694,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "pending_transfer",
+    "score": 0.5210270997270957
+  },
+  {
+    "test_row": 2703,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "failed_transfer",
+    "score": 0.4926688793157351
+  },
+  {
+    "test_row": 2708,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "pending_transfer",
+    "score": 0.6932422969628059
+  },
+  {
+    "test_row": 2711,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "pending_transfer",
+    "score": 0.8672147466522199
+  },
+  {
+    "test_row": 2715,
+    "true_label": "balance_not_updated_after_bank_transfer",
+    "predicted_label": "transfer_not_received_by_recipient",
+    "score": 0.36758279001583444
+  },
+  {
+    "test_row": 2746,
+    "true_label": "cash_withdrawal_not_recognised",
+    "predicted_label": "card_payment_not_recognised",
+    "score": 0.45020698877469384
+  },
+  {
+    "test_row": 2761,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_rate",
+    "score": 0.6066310405407561
+  },
+  {
+    "test_row": 2763,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_rate",
+    "score": 0.8356149114911492
+  },
+  {
+    "test_row": 2784,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_via_app",
+    "score": 0.9541662354508437
+  },
+  {
+    "test_row": 2785,
+    "true_label": "exchange_charge",
+    "predicted_label": "top_up_by_bank_transfer_charge",
+    "score": 0.3577492100922476
+  },
+  {
+    "test_row": 2787,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_via_app",
+    "score": 0.6315423460343002
+  },
+  {
+    "test_row": 2795,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_via_app",
+    "score": 0.6275835289715253
+  },
+  {
+    "test_row": 2796,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_via_app",
+    "score": 0.6463476093839432
+  },
+  {
+    "test_row": 2798,
+    "true_label": "exchange_charge",
+    "predicted_label": "transfer_fee_charged",
+    "score": 0.2809374009507043
+  },
+  {
+    "test_row": 2799,
+    "true_label": "exchange_charge",
+    "predicted_label": "exchange_via_app",
+    "score": 0.5109195590838027
+  },
+  {
+    "test_row": 2802,
+    "true_label": "top_up_by_card_charge",
+    "predicted_label": "supported_cards_and_currencies",
+    "score": 0.6018511626185061
+  },
+  {
+    "test_row": 2829,
+    "true_label": "top_up_by_card_charge",
+    "predicted_label": "transfer_into_account",
+    "score": 0.5590872177795503
+  },
+  {
+    "test_row": 2848,
+    "true_label": "activate_my_card",
+    "predicted_label": "card_arrival",
+    "score": 0.8850603629063144
+  },
+  {
+    "test_row": 2852,
+    "true_label": "activate_my_card",
+    "predicted_label": "lost_or_stolen_card",
+    "score": 0.5287806287087445
+  },
+  {
+    "test_row": 2863,
+    "true_label": "activate_my_card",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.5045328305916569
+  },
+  {
+    "test_row": 2890,
+    "true_label": "cash_withdrawal_charge",
+    "predicted_label": "card_payment_fee_charged",
+    "score": 0.6809255242195844
+  },
+  {
+    "test_row": 2917,
+    "true_label": "cash_withdrawal_charge",
+    "predicted_label": "wrong_exchange_rate_for_cash_withdrawal",
+    "score": 0.42530329371853637
+  },
+  {
+    "test_row": 3000,
+    "true_label": "verify_my_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.37137350334233965
+  },
+  {
+    "test_row": 3001,
+    "true_label": "verify_my_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.5116428053453048
+  },
+  {
+    "test_row": 3004,
+    "true_label": "verify_my_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.39975283237642517
+  },
+  {
+    "test_row": 3005,
+    "true_label": "verify_my_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.6310862097768362
+  },
+  {
+    "test_row": 3012,
+    "true_label": "verify_my_identity",
+    "predicted_label": "why_verify_identity",
+    "score": 0.5827522029899906
+  },
+  {
+    "test_row": 3013,
+    "true_label": "verify_my_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.611335566144761
+  },
+  {
+    "test_row": 3020,
+    "true_label": "verify_my_identity",
+    "predicted_label": "unable_to_verify_identity",
+    "score": 0.48154916366272604
+  },
+  {
+    "test_row": 3035,
+    "true_label": "verify_my_identity",
+    "predicted_label": "verify_top_up",
+    "score": 0.16681599828874866
+  },
+  {
+    "test_row": 3058,
+    "true_label": "country_support",
+    "predicted_label": "atm_support",
+    "score": 0.3551548537072674
+  }
+]
